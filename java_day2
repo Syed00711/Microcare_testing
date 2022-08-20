@@ -1,0 +1,10 @@
+COmments:
+
+70:30
+
+
+70 code,30 comments
+
+global variables: these type of variables can be used anywhere inside class
+local variables : these type of variables can be used only in methods
+
