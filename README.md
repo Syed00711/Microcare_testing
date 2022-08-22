@@ -32,4 +32,18 @@ Logical operators are used to check whether an expression is true or false. They
 ![image](https://user-images.githubusercontent.com/61380313/185777097-0026e912-1f55-4112-96aa-8084d6799219.png)
 
 
+LOOPs:
+
+IF
+WHILE
+FOR
+DO WHILE
+
+
+
+CASE
+
+
+
+
 
