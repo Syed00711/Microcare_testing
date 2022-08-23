@@ -8,19 +8,25 @@ public class Pointers {
 		    // declare variables
 		    int a = 12, b = 12;
 		    int result1, result2;
-
+		    
+		    
 		    // original value
-		    System.out.println("Value of a: " + a);
-
+		    System.out.println("Value of a1: " + ++a);
+		    //a++=a+1;
+		    //++a =1+a;
+		  
+		    System.out.println("Value of a2: " + a++);
+		    
+		    System.out.println("Value of a2: " + a);
 		    // increment operator
-		    result1 = ++a;
-		    System.out.println("After increment: " + result1);
+		    result1 = a++;
+		   // System.out.println("After increment: " + result1);
 
-		    System.out.println("Value of b: " + b);
+		   // System.out.println("Value of b: " + b);
 
 		    // decrement operator
-		    result2 = --b;
-		    System.out.println("After decrement: " + result2);
+		    //result2 = --b;
+		   System.out.println("After decrement: " + --b);
 		  }
 		
 

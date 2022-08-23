@@ -5,13 +5,13 @@ public class RelationalOperators {
 		  public static void main(String[] args) {
 		    
 		    // create variables
-		    int a = 7, b = 11;
+		    int a = 7, b = 11,c=15;
 
 		    // value of a and b
 		    System.out.println("a is " + a + " and b is " + b);
 
 		    // == operator
-		    System.out.println(a == b);  // false
+		    System.out.println(a ==b || b==c);  // false
 
 		    // != operator
 		    System.out.println(a != b);  // true

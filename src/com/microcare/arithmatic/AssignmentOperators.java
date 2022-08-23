@@ -14,6 +14,7 @@ public class AssignmentOperators {
 
 		    // assign value using =+
 		    var += a;
+		   // var=var+a;
 		    System.out.println("var using +=: " + var);
 
 		    // assign value using =*
