@@ -20,7 +20,8 @@ for loop
 		
 		for(int n=0;n<10;n++) {
 			c=a+b;
-			
+			a=b;
+			b=c;
 			
 			System.out.println(c);
 		}
