@@ -3,9 +3,16 @@ public class Reverse {
 
 	public static void main(String[] args) {
 	int[] num = {1,2,3,4,5,6,7,8,9,10};
-	int[]reverse;
+	int[] reverse= {0} ;
 	
-	
+	for(int n =1;n<num.length;n--) {
+		reverse[num.length-n]=num[n-1];
+		//reverse[9]=1;
+		//reverse[8]=2;
+		//reverse[7]=3;
+		//reverse[6]=4;
+	}
+	System.out.println(reverse);
 	
 	
 	

@@ -4,6 +4,7 @@ public class _HelloWorld {
 	
 	static int a=1;
 	public void bedRoom() {
+		Scope sc =new Scope();
 		
 		int a=1;
 	}

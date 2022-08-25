@@ -4,7 +4,7 @@ package com.microcare.dayone;
 
 public class Scope {
 	
-	public int checkScope() {
+	public  int checkScope() {
 		int b=_HelloWorld.a=5;
 		
 		
