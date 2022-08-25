@@ -1,0 +1,29 @@
+package import class static object new
+public private protected 
+void break continue
+for if else  while do-while switch
+
+global vs local
+
+constructors:
+is a type of method
+same name as class
+called during class initialization,after static blocks
+default,parameterized
+no return type
+
+static block:
+called during class initialization
+first thing to be called in a class
+only static
+
+
+operators:
++ - / * %
+++ -- > < <= >= == !=
+|| &&
+
+
+
+primitive data types:
+byte int short long float double char string(65535)
